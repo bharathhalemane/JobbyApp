@@ -1,4 +1,4 @@
-import {BrowserRouter, Route, Switch, Redirect} from 'react-router-dom'
+import {BrowserRouter,Switch, Route,  Redirect} from 'react-router-dom'
 import './App.css'
 
 import Login from './components/Login'
@@ -7,6 +7,7 @@ import Jobs from './components/Jobs'
 import JobCard from './components/JobCard'
 import NotFound from './components/NotFound'
 import ProtectedRoute from './components/ProtectedRoute'
+
 // These are the lists used in the application. You can move them to any component needed.
 
 // Replace your code here

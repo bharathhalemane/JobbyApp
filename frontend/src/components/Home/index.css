@@ -4,11 +4,12 @@
   height: 90vh;
   margin: 0;
   padding: 40px;
+  font-family: "Roboto";
 }
 
 .home-container h1 {
   color: #fff;
-  font-size: 80px;
+  font-size: 80px;  
   width: 700px;
 }
 

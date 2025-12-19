@@ -7,7 +7,10 @@
     padding: 20px 40px;
     padding-bottom: 0;
     font-family: Roboto;
+    height: 100vh;
+    padding-top: 130px;
 }
+
 
 .jobs-container hr {
     color: #cbd5e1;
@@ -38,6 +41,7 @@
 .jobs-details-container {
     padding: 10px;
     padding-bottom: 0;
+    overflow: hidden;
 }
 
 .search-container {
@@ -91,8 +95,8 @@ ul {
 
 .jobs-list-container {
     margin-top: 10px;
-    overflow-y: scroll;
-    height: 77vh;
+    height: 80vh;
+    overflow-y: scroll;    
     margin-bottom: 0;
 }
 

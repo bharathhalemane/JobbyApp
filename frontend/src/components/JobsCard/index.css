@@ -1,12 +1,14 @@
 .jobs-card-link {
   color: #fff;
   text-decoration: none;
+  
 }
 .job-detail-container {
   background-color: #272727;
   border-radius: 10px;
   padding: 20px;
   margin: 20px;
+  
 }
 
 .job-heading-container {

@@ -6,7 +6,8 @@
   background-color: #272727;
   color: #fff;
   font-family: Roboto;
-  
+  position: fixed;
+  width: 100%;
   
 }
 

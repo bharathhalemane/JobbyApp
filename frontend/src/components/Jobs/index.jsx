@@ -126,8 +126,8 @@ class Jobs extends Component {
           <div className="filter-container">
             <ProfileCard />
             <hr />
-            <div className="employement-filter-container">
-              <h1 className="filter-heading">Type of Employement</h1>
+            <div className="employment-filter-container">
+              <h1 className="filter-heading">Type of Employment</h1>
               <ul className="filter-con">
                 {employmentTypesList.map(each => {
                   return (

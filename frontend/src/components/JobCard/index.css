@@ -1,0 +1,105 @@
+.job-card-page {
+  background-color: #000;
+  padding: 30px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+}
+
+.job-card-container {
+  background-color: #272727;
+  width: 80%;
+  border-radius: 10px;
+  padding: 30px 20px;
+  color: #fff;
+}
+
+.job-company-logo {
+  width: 80px;
+}
+
+.job-title {
+  font-size: 20px;
+}
+
+.job-rat-con {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.job-title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.job-rating {
+  font-size: 20px;
+}
+
+.job-card-heading-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-left: 50px;
+}
+
+.skill-con {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  width: 300px;
+}
+
+.skill-con img {
+  width: 50px;
+}
+
+.skill-con h1 {
+  font-size: 20px;
+}
+
+.lifeatcom-con {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.lifeatcom-des {
+  width: 500px;
+}
+
+.lifeatcom-des p {
+  font-size: 20px;
+}
+
+.lifeatcom-image {
+  border-radius: 10px;
+  margin-top: 40px;
+}
+.similar-job-container {
+  width: 80%;
+}
+.similar-jobs-items {
+  display: flex;
+  flex-wrap: wrap;
+}

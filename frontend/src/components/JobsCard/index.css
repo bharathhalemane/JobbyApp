@@ -1,0 +1,44 @@
+.jobs-card-link {
+  color: #fff;
+  text-decoration: none;
+}
+.job-detail-container {
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.job-heading-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.company-logo {
+  width: 100px;
+}
+
+.job-detail {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hr-line {
+  margin: 0 !important;
+}
+
+.loc-emp-con {
+  display: flex;
+  gap: 30px;
+}
+
+.rat-con {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.title {
+  font-size: 25px;
+}

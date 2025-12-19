@@ -1,0 +1,22 @@
+.similar-job-detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 30px 20px;
+  margin: 20px;
+  width: 28%;
+}
+.similar-job-heading-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.similar-job-heading-container img {
+  width: 60px;
+}
+
+.similar-job-heading-container h1 {
+  font-size: 20px;
+}
